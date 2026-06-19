@@ -1,0 +1,6 @@
+node_modules
+dist
+.git
+.nx/cache
+tmp
+*.log
